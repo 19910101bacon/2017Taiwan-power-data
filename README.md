@@ -27,6 +27,7 @@
 ### Product
 - 跨國黑客松.Rmd
 - 跨國黑客松.html
+- 台電黑客松
 
 ### LICENSE
 - LICENSE.txt：2017 ASIA open data Hackthon_Life is struggle
